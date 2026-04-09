@@ -393,6 +393,8 @@ ws.onmessage = (event) => {
 MIT License
 
 ---
+## 🎥 Demo Video
+[Click here to watch the demo](https://drive.google.com/drive/folders/1xVcvOllsjBEQe9s-UvJVQALROskjCVnu?usp=drive_link)
 
 ## 👥 Contact
 
